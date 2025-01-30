@@ -29,6 +29,9 @@ Feature Engineering & Preprocessing
 
 
 🤝 Connect with Me
+
 📩 Email: [preciouslebyane98@gmail.com.com]
-🔗 LinkedIn: linkedin.com/in/yourprofile
+
+🔗 LinkedIn: linkedin.com/in/precious-lebyaneyourprofile
+
 📂 GitHub: github.com/preciousbr8
