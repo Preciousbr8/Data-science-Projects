@@ -51,9 +51,13 @@ Comparative analysis between ML and deep learning models
 🚀
 
 🎯 Future Improvements
+
 🔹 Experiment with transformer models (BERT, RoBERTa)
+
 🔹 Expand dataset for better generalization
+
 🔹 Deploy model as an API for real-time sentiment analysis
+
 🔹 Improve model performance using hyperparameter tuning & embeddings
 
 
@@ -61,6 +65,9 @@ Comparative analysis between ML and deep learning models
 This project is licensed under MIT License.
 
 🤝 Connect with Me
+
 📩 Email: [preciouslebyane98@gmail.com]
+
 🔗 LinkedIn: linkedin.com/in/yourprofile
+
 📂 GitHub: github.com/preciousbr8
