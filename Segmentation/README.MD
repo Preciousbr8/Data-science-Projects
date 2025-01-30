@@ -73,5 +73,5 @@ This project is licensed under MIT License.
 
 🤝 Connect with Me
 📩 Email: [preciouslebyane98@gmail.com]
-🔗 LinkedIn: linkedin.com/in/yourprofile
+🔗 LinkedIn: linkedin.com/in/precious-lebyane
 📂 GitHub: github.com/preciousbr
