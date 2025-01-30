@@ -51,6 +51,6 @@ Next steps: Improve model performance using hyperparameter tuning & embeddings C
 
 📩 Email: [preciouslebyane98@gmail.com]
 
-🔗 LinkedIn: linkedin.com/in/yourprofile
+🔗 LinkedIn: linkedin.com/in/precious-lebyane
 
 📂 GitHub: github.com/preciousbr8
